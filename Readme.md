@@ -5,3 +5,6 @@ Project EV3 parent bestaat uit 3 onderdelen:
 * EV3 robot servertje 
 <br> Dit is zelfstandig Lego Mindstorms robot.
 * SLAM bibliotheek.
+
+
+Bitbucket docker met project repository: http://localhost:7990/projects/EV3
