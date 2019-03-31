@@ -1,0 +1,11 @@
+
+Ysquid:S1126Ö"AReplace this if-then-else statement by a single return statement.(ªŠ¼’
+Esquid:S1172§"-Remove this unused method parameter "string".(ÂíëÂ
+Jsquid:S1135¨"2Complete the task associated to this TODO comment.(ñüƒù
+<squid:S1068!"%Remove this unused "z" private field.(Ê°¾§
+Isquid:S1068&"-Remove this unused "cellDepth" private field.(º€‰üûÿÿÿÿ
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑ©»
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ã°±
+Osquid:S1135û"2Complete the task associated to this TODO comment.(†µ¶¦ùÿÿÿÿ
+Csquid:S1068",Remove this unused "distance" private field.(Ü¼Âú
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑ©»

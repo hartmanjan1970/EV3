@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/documentatie/rmi2.pdf" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/Readme.md" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/Ev3ApplicationController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/configuration/AppConfigurationProperties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/LocationMapFxController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/MappingTestFxController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/SettingsNetworkFxController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/StatusMapFxController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/IClientCallBack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/MyCalculation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/Cell.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/Point.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/RepositoryConfiguration.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/Route.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/RouteRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/Status.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/routing/Surface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/rmitest" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/rmitest/TemperatureMonitor.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/META-INF" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/META-INF/MANIFEST.MF" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/fxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-robot-rmi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-robot-rmi/Readme.md" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ev3-robot-rmi/src/main/java/jan/hartman/robotics/robot/chassis/TouchSensor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-robot-rmi/src/main/java/jan/hartman/robotics/robot/rmi/RobotCommandRmi.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ev3-robot-rmi/src/main/resources/META-INF" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/slam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slam/Readme.md" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/slam/documenten" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam/mapping/Cel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam/mapping/CelStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam/mapping/Landmark.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam/mapping/Route2D.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam/mapping/Route2DCell.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slam/src/main/java/jan/hartman/robotics/slam/mapping/WayPoint.java" charset="UTF-8" />
+    <file url="PROJECT" charset="ISO-8859-1" />
+  </component>
+</project>

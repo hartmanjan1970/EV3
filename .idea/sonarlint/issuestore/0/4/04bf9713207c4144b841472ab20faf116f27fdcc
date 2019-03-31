@@ -1,0 +1,29 @@
+
+Ssquid:S1066†"/Merge this if statement with the enclosing one.(Ûªù²ıÿÿÿÿ8Ë‚Ü›-
+|squid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‚§µşÿÿÿÿ8Ë‚Ü›-
+|squid:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‚§µşÿÿÿÿ8Ë‚Ü›-
+|squid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‚§µşÿÿÿÿ8Ë‚Ü›-
+:squid:S3626ˆ"Remove this redundant jump.(ûÁİ…8Ë‚Ü›-
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ã¯ùş8Ë‚Ü›-
+jsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(çÇ·¡8Ë‚Ü›-
+jsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(çÑŸÌ8Ë‚Ü›-
+jsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(çÇ·¡8Ë‚Ü›-
+jsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(çÑŸÌ8Ë‚Ü›-
+osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(¡©â·øÿÿÿÿ8Ë‚Ü›-
+jsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(º‰Ï±8Ë‚Ü›-
+ysquid:S1488ï"ZImmediately return this expression instead of assigning it to the temporary variable "it".(º‰Ï±8Ë‚Ü›-
+Usquid:S1135"2Complete the task associated to this TODO comment.(˜•ÂÔûÿÿÿÿ8Ë‚Ü›-
+Psquid:S1481§"1Remove this unused "nrRowsInGrid" local variable.(¼›àü8Ë‚Ü›-
+Psquid:S1481é"1Remove this unused "nrRowsInGrid" local variable.(¼›àü8Ë‚Ü›-
+vsquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(øÍøÿÿÿÿ8Ë‚Ü›-
+rsquid:S00100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ìß¦ıÿÿÿÿ8Ë‚Ü›-
+ssquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’†¬ıÿÿÿÿ8Ë‚Ü›-
+Msquid:S1172Ğ".Remove this unused method parameter "coord_x".(Ö£Ï™8Ë‚Ü›-
+rsquid:S2272€"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¡ä¥ôøÿÿÿÿ8Ë‚Ü›-
+_squid:S1854§"@Remove this useless assignment to local variable "nrRowsInGrid".(¼›àü8Ë‚Ü›-
+_squid:S1854é"@Remove this useless assignment to local variable "nrRowsInGrid".(¼›àü8Ë‚Ü›-
+\squid:S1854ı"8Remove this useless assignment to local variable "cell".(—¤„ßøÿÿÿÿ8Ë‚Ü›-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í³¤‰şÿÿÿÿ8Ë‚Ü›-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í³¤‰şÿÿÿÿ8Ë‚Ü›-
+qsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£Ï™8Ë‚Ü›-
+qsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£Ï™8Ë‚Ü›-

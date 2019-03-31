@@ -1,0 +1,58 @@
+
+osquid:UnusedPrivateMethod»"DRemove this unused private "jMenuItem_Grid2DActionPerformed" method.(Ðá‹Äùÿÿÿÿ
+esquid:S1192Æ"MDefine a constant instead of duplicating this literal "Read: {} :{}" 3 times.(¬’¢•
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×’¨‚
+^squid:S1854Ø"ARemove this useless assignment to local variable "addCoordinate".(—º½õÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(°§ˆƒýÿÿÿÿ
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ìŽíá
+osquid:S00116A"WRename this field "draw_route2D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”×³
+csquid:S1854Ã"FRemove this useless assignment to local variable "currentDateAndTime".(­œžüûÿÿÿÿ
+bsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(‹â
+Osquid:S1481Ø"2Remove this unused "addCoordinate" local variable.(—º½õÿÿÿÿÿ
+Jsquid:S1135¸"2Complete the task associated to this TODO comment.(•Âåà
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(Œá³é
+Jsquid:S1135°"2Complete the task associated to this TODO comment.(É¤ŽÑ
+Osquid:S1135á"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(‰Û˜‚ÿÿÿÿÿ
+Jsquid:S1135¨"2Complete the task associated to this TODO comment.(¯»¶Ò
+Gsquid:S1068A"0Remove this unused "draw_route2D" private field.(ƒ”×³
+Osquid:S1135¿"2Complete the task associated to this TODO comment.(ÑÑÝ¯üÿÿÿÿ
+Osquid:S1135ù"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+lsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðá‹Äùÿÿÿÿ
+Ksquid:S1481©".Remove this unused "className" local variable.(«¤ŽÒùÿÿÿÿ
+Csquid:S1481Ü"&Remove this unused "o" local variable.(º±–¨üÿÿÿÿ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(©‹¼àüÿÿÿÿ
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(â¡Ÿä
+Tsquid:S1481Ã"7Remove this unused "currentDateAndTime" local variable.(­œžüûÿÿÿÿ
+Isquid:S1612ù",Replace this lambda with a method reference.(õ†à¡ûÿÿÿÿ
+csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(¬¾¯
+hsquid:CommentedOutCodeLineÞ"<This block of commented-out lines of code should be removed.(¯šË½ÿÿÿÿÿ
+Jsquid:S1135"2Complete the task associated to this TODO comment.(ß©”ˆ
+Esquid:S1068K".Remove this unused "cartograaf" private field.(Ñ²ºæ
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ÕÍ­‘ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(ÚÖÑÿÿÿÿÿ
+Esquid:S1068I")Remove this unused "kaart" private field.(žº½‡ýÿÿÿÿ
+Lsquid:S1068T"0Remove this unused "aGraphActual" private field.(‡éÜúÿÿÿÿ
+lsquid:UnusedPrivateMethodì"ARemove this unused private "jCheckRobot2ItemStateChanged" method.(ü¼êŒùÿÿÿÿ
+csquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(›Ì‰³
+Isquid:S1135A"2Complete the task associated to this TODO comment.(ƒ”×³
+Gsquid:S1481ø"*Remove this unused "count" local variable.(ýüöºùÿÿÿÿ
+hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(¯»¶Ò
+Ksquid:S1068E"/Remove this unused "testRoute2D" private field.(üÚõÊøÿÿÿÿ
+gsquid:UnusedPrivateMethodø"ARemove this unused private "jCheckRobot3ItemStateChanged" method.(¡’ù‹
+|squid:S1488ì"dImmediately return this expression instead of assigning it to the temporary variable "route2DCellD".(°÷ºÎ
+Osquid:S1135Ç"2Complete the task associated to this TODO comment.(çóûêûÿÿÿÿ
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(«ëÂÓøÿÿÿÿ
+hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(³öá ûÿÿÿÿ
+xsquid:S1192è"[Define a constant instead of duplicating this literal "Read: {} volgNr:{} ({},{})" 3 times.(‘Êøÿÿÿÿ
+Isquid:S1068M"-Remove this unused "navigator" private field.(“»’ùÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(›’·
+Osquid:S1135í"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+Osquid:S1135û"2Complete the task associated to this TODO comment.(³öá ûÿÿÿÿ
+gsquid:UnusedPrivateMethodà"ARemove this unused private "jCheckRobot1ItemStateChanged" method.(Äã–¼
+Jsquid:S1135õ"2Complete the task associated to this TODO comment.(ß©”ˆ
+Ksquid:S1481›".Remove this unused "className" local variable.(«¤ŽÒùÿÿÿÿ
+Jsquid:S1135é"2Complete the task associated to this TODO comment.(ß©”ˆ
+Jsquid:S1135ê"2Complete the task associated to this TODO comment.(›Ì‰³
+hsquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(«ëÂÓøÿÿÿÿ

@@ -1,0 +1,13 @@
+
+Fsquid:S1068"1Remove this unused "urlOfObserver" private field.(ê≈ÑÃ
+Gsquid:S1068"2Remove this unused "nameOfObserver" private field.(œü§ä
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°ª¢¸˘ˇˇˇˇ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬ßÅæ
+?squid:S00108")Either remove or fill this block of code.(Â•ûá
+üsquid:S1192"ÑDefine a constant instead of duplicating this literal " - robotControl not connected; ; url: {}, portOfRobot: {}, name: {}" 7 times.(√∫÷„˝ˇˇˇˇ
+osquid:S1450"ZRemove the "workRequest" field and declare it as a local variable in the relevant methods.(°Ïà¢
+Gsquid:S1068"2Remove this unused "portOfObserver" private field.(Ëœü¥
+=squid:S1148"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œà‚ó¯ˇˇˇˇ
+=squid:S1148"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ﬁÜï‰

@@ -1,0 +1,9 @@
+
+Nsquid:MissingDeprecatedCheck"(Add the missing @deprecated Javadoc tag.(÷±ÿ¿
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰¨Ÿ‘
+ksquid:S1450"VRemove the "mapData" field and declare it as a local variable in the relevant methods.(ˆ°ˆ
+Jsquid:S1133"5Do not forget to remove this deprecated code someday.(§ø£²
+Jsquid:S1133"5Do not forget to remove this deprecated code someday.(÷±ÿ¿
+Esquid:S2160"+Override the "equals" method in this class.(Ê›€úÿÿÿÿ
+Nsquid:MissingDeprecatedCheck"(Add the missing @deprecated Javadoc tag.(§ø£²
+@squid:S1068"+Remove this unused "mapData" private field.(ˆ°ˆ

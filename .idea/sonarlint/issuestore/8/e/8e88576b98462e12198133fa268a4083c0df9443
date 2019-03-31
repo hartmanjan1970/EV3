@@ -1,0 +1,12 @@
+
+Isquid:S1135>"2Complete the task associated to this TODO comment.(ƒ¬¼
+Osquid:S1135Â"2Complete the task associated to this TODO comment.(×®Øøÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheck4"vRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from constructor's body.(¨È›8Š¨¸-
+tsquid:S2629Å"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ïİöØ
+Nsquid:S2629a"7Use the built-in formatting to construct this argument.(¯§¯
+Osquid:S2629¢"7Use the built-in formatting to construct this argument.(ë½¸ı
+Osquid:S2629©"7Use the built-in formatting to construct this argument.(À£×
+Isquid:S1135V"2Complete the task associated to this TODO comment.(ƒ¬¼
+Nsquid:S1135G"2Complete the task associated to this TODO comment.(•Šóşÿÿÿÿ
+bsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(¤»
+Ssquid:S2629^"7Use the built-in formatting to construct this argument.(Ú¼¯óùÿÿÿÿ

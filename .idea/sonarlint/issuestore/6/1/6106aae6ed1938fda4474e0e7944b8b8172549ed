@@ -1,0 +1,9 @@
+
+Wsquid:S1854{";Remove this useless assignment to local variable "isEqual".(™ýÒ¶úÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "isEqual".(™ýÒ¶úÿÿÿÿ
+Usquid:MissingDeprecatedCheck8"(Add the missing @deprecated Javadoc tag.(­µÁÈýÿÿÿÿ
+<squid:S1905_"&Remove this unnecessary cast to "Cel".(ì©åN
+]squid:S2259ƒ"EA "NullPointerException" could be thrown; "route2D" is nullable here.(¾Ú¾Ú
+Wsquid:S1854}";Remove this useless assignment to local variable "isEqual".(é¼ŸÑþÿÿÿÿ
+Bsquid:S1905g"&Remove this unnecessary cast to "Cel".(ê€„¥úÿÿÿÿ
+Qsquid:S11338"5Do not forget to remove this deprecated code someday.(­µÁÈýÿÿÿÿ
