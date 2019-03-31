@@ -1,0 +1,9 @@
+[submodule "slam"]
+	path = slam
+	url = http://localhost:7990/scm/ev3/slam.git
+[submodule "ev3-robot-rmi"]
+	path = ev3-robot-rmi
+	url = http://localhost:7990/scm/ev3/ev3-robot-rmi.git
+[submodule "ev3-javafx-spring-boot"]
+	path = ev3-javafx-spring-boot
+	url = http://localhost:7990/scm/ev3/ev3-javafx-spring-boot.git
