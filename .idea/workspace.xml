@@ -2,40 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dece1e9-cc07-4b7d-a482-4eb6d7e4bc3a" name="Default Changelist" comment="Simpelgedrag in CarDriver en voertuig luistert naar Utrasonic distance">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/Ev3ApplicationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/MyApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/configuration/AppConfigurationProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/fxcontroller/LocationMapFxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/fxcontroller/MappingTestFxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/fxcontroller/RemoteControlFxController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/fxcontroller/RemoteControlFxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/fxcontroller/SettingsNetworkFxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/fxcontroller/StatusMapFxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/mapping/MapData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/IClientCallBack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/MyCalculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/MyCalculationSerial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/MyRobotStateListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/RobotControlClientRmi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/RobotControlClientRmi.class" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/robot/rmi/RobotControlClientRmi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/Cell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/Point.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/RepositoryConfiguration.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/Route.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/RouteRepository.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/Status.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/application/routing/Surface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/rmitest/TemperatureListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/rmitest/TemperatureMonitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/rmitest/TemperatureSensor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/classes/jan/hartman/rmitest/TemperatureSensorServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-javafx-spring-boot/target/test-classes/jan/hartman/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ev3-robot-rmi/src/main/java/jan/hartman/robotics/robot/rmi/RobotCommandResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-robot-rmi/src/main/java/jan/hartman/robotics/robot/rmi/RobotCommandResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slam" beforeDir="false" afterPath="$PROJECT_DIR$/slam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ev3-robot-rmi" beforeDir="false" afterPath="$PROJECT_DIR$/ev3-robot-rmi" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ev3-robot-rmi/target/" />
@@ -57,14 +38,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="239">
+              <caret line="128" column="30" lean-forward="true" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1725#1754#1" expanded="true" />
+                <element signature="e#1877#1906#1" expanded="true" />
+                <element signature="e#6208#6209#0" expanded="true" />
+                <element signature="e#6226#6227#0" expanded="true" />
+                <element signature="e#6407#6408#0" expanded="true" />
+                <element signature="e#6430#6431#0" expanded="true" />
+                <element signature="e#6512#6513#0" expanded="true" />
+                <element signature="e#6535#6536#0" expanded="true" />
+                <element signature="e#6599#6600#0" expanded="true" />
+                <element signature="e#6622#6623#0" expanded="true" />
+                <element signature="e#6671#6672#0" expanded="true" />
+                <element signature="e#6688#6689#0" expanded="true" />
+                <element signature="e#6748#6749#0" expanded="true" />
+                <element signature="e#6769#6770#0" expanded="true" />
+                <element signature="e#7214#7215#0" expanded="true" />
+                <element signature="e#7239#7240#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="101" column="37" selection-start-line="101" selection-start-column="37" selection-end-line="101" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -123,7 +138,7 @@
         <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/MyRobotStateListener.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+              <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -137,6 +152,7 @@
       <find>change event</find>
       <find>IRobotStateListener</find>
       <find>RobotStatusResponse</find>
+      <find>192.168.2.7</find>
     </findStrings>
     <dirStrings>
       <dir>D:\02 Programmeren\EV3</dir>
@@ -159,7 +175,6 @@
         <option value="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/rmitest/TemperatureMonitor.java" />
         <option value="$PROJECT_DIR$/ev3-robot-rmi/pom.xml" />
         <option value="$PROJECT_DIR$/ev3-javafx-spring-boot/pom.xml" />
-        <option value="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/ev3-robot-rmi/src/main/java/jan/hartman/robotics/robot/rmi/RobotCommandRmi.java" />
         <option value="$PROJECT_DIR$/ev3-robot-rmi/Readme.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -167,6 +182,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ev3-robot-rmi/src/main/java/jan/hartman/robotics/robot/rmi/RobotCommandResponse.java" />
         <option value="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java" />
+        <option value="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java" />
+        <option value="$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -288,7 +305,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hartman" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="fxcontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ev3-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ev3-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ev3-javafx-spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hartman" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="rmi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ev3-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ev3-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ev3-javafx-spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ev3-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -632,14 +668,22 @@
       <option name="project" value="LOCAL" />
       <updated>1555935811380</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="class file removed from git">
+      <created>1555944112489</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555944112489</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24092000" />
+    <option name="totallyTimeSpent" value="24952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="942" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49621212" visible="true" weight="0.10463019" />
       <window_info id="Structure" order="1" sideWeight="0.5037879" side_tool="true" weight="0.10463019" />
@@ -665,7 +709,7 @@
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Serial Monitor" order="16" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="17" />
-      <window_info anchor="bottom" id="Version Control" order="18" weight="0.43308082" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="18" visible="true" weight="0.43308082" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -707,17 +751,12 @@
     <MESSAGE value="class files uit Git halen" />
     <MESSAGE value="remove class files from git" />
     <MESSAGE value="Simpelgedrag in CarDriver en voertuig luistert naar Utrasonic distance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simpelgedrag in CarDriver en voertuig luistert naar Utrasonic distance" />
+    <MESSAGE value="class file removed from git" />
+    <option name="LAST_COMMIT_MESSAGE" value="class file removed from git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java</url>
-          <line>107</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/MyRobotStateListener.java</url>
           <line>54</line>
@@ -726,7 +765,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java</url>
-          <line>271</line>
+          <line>276</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -807,13 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/META-INF/additional-spring-configuration-metadata.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -833,13 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26448">
           <caret line="1773" selection-start-line="1773" selection-end-line="1773" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1280">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
         </state>
       </provider>
     </entry>
@@ -1044,7 +1069,7 @@
     <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/MyRobotStateListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1069,13 +1094,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/fxcontroller/RemoteControlFxController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="101" column="37" selection-start-line="101" selection-start-column="37" selection-end-line="101" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/java/jan/hartman/application/robot/rmi/RobotControlClientRmi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="239">
+          <caret line="128" column="30" lean-forward="true" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1725#1754#1" expanded="true" />
+            <element signature="e#1877#1906#1" expanded="true" />
+            <element signature="e#6208#6209#0" expanded="true" />
+            <element signature="e#6226#6227#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6430#6431#0" expanded="true" />
+            <element signature="e#6512#6513#0" expanded="true" />
+            <element signature="e#6535#6536#0" expanded="true" />
+            <element signature="e#6599#6600#0" expanded="true" />
+            <element signature="e#6622#6623#0" expanded="true" />
+            <element signature="e#6671#6672#0" expanded="true" />
+            <element signature="e#6688#6689#0" expanded="true" />
+            <element signature="e#6748#6749#0" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="true" />
+            <element signature="e#7214#7215#0" expanded="true" />
+            <element signature="e#7239#7240#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ev3-javafx-spring-boot/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
         </state>
       </provider>
     </entry>
